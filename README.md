@@ -10,11 +10,11 @@ Interview Question
 
 <img src="images/latLong.png" alt="Latitude and Longitude Points" height = 800>
 
-Structure
+Program Structure
 -------------------------------
 <img src="images/programPackages.jpeg" alt="Program Packages" width= 700>
 
-2-Opt Algorithm (<a href="https://en.wikipedia.org/wiki/2-opt">2-Opt Wiki /a>)
+2-Opt Algorithm (<a href="https://en.wikipedia.org/wiki/2-opt">2-Opt Wiki>)
 -------------------------------
 <img src="images/2_OptAlgorithm.jpeg" alt="2-Opt Algorithm" width= 700>
 
@@ -28,7 +28,7 @@ Solution
 -------------------------------
  <p>The solution to the 60 points using the 2-opt algorithm in this python script:</p>
  
-  <img src="images/solution.png" alt="Solution image" width= 700>
+ <img src="images/solution.png" alt="Solution image" width= 700>
 
  <img src="animations/result.gif" alt="Algorithm solving points" width= 700>
 

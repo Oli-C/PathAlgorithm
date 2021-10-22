@@ -1,10 +1,12 @@
 # Path Algorithm
 
-<p>This project was completed as part of a job application</p> 
+<p>This project was completed as part of a job application in Oct 2021</p> 
 
 Interview Question
 -------------------------------
 <img src="images/problem.jpeg" alt="Interview Question" width= 700>
+
+<p>The provided data:</p>
 
 <img src="images/latLong.png" alt="Latitude and Longitude Points" height = 800>
 
@@ -18,12 +20,15 @@ Structure
 
 Testing
 -------------------------------
-<p>To test the algorithm I hard coded a circle into dataLoader. This can be loaded into the algoritm to test that it is working. I used a circle because visually it is easy to see of the algorithm is working correcty because the shortest path around a circle is around its perimeter.</p>
+<p>To test the algorithm I used a circle. A circle  was used because it is easy to visualise the algorithm working correcty, this is because the shortest path around a circle is its perimeter.</p>
  
- <img src="animations/testCircle.gif" alt="Interview Question" width= 700>
+ <img src="animations/testCircle.gif" alt="Algorithm solving circle" width= 700>
  
 Solution
 -------------------------------
+ <p>The solution to the 60 points using the 2-opt algorithm in this python script:</p>
+ 
+  <img src="images/solution.png" alt="Solution image" width= 700>
 
- <img src="animations/result.gif" alt="Interview Question" width= 700>
+ <img src="animations/result.gif" alt="Algorithm solving points" width= 700>
 

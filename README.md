@@ -6,7 +6,7 @@ Interview Question
 -------------------------------
 <img src="images/problem.jpeg" alt="Interview Question" width= 700>
 
-<p>The provided data:</p>
+<p>The data to solve:</p>
 
 <img src="images/latLong.png" alt="Latitude and Longitude Points" height = 800>
 
@@ -14,8 +14,10 @@ Program Structure
 -------------------------------
 <img src="images/programPackages.jpeg" alt="Program Packages" width= 700>
 
-2-Opt Algorithm <a href="https://en.wikipedia.org/wiki/2-opt">2-Opt Wiki</a>
+2-Opt Algorithm (<a href="https://en.wikipedia.org/wiki/2-opt">2-Opt Wiki</a>)
 -------------------------------
+<p>How the algorithm works:</p>
+
 <img src="images/2_OptAlgorithm.jpeg" alt="2-Opt Algorithm" width= 700>
 
 Testing

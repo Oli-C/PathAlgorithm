@@ -2,6 +2,8 @@
 
 <p>This project was completed as part of a job application where I was given </p> 
 
+<img src="animations/result.gif" alt="Interview Question">
+
 Interview Question
 -------------------------------
 <img src="images/problem.jpeg" alt="Interview Question">
@@ -18,7 +20,11 @@ Testing
 -------------------------------
 <img src="images/testing.jpeg" alt="Testing the algorithm">
  
+ <img src="animations/testCircle.gif" alt="Interview Question">
+ 
 Solution
 -------------------------------
 <img src="images/solution.jpeg" alt="Algorithm working on solution">
+ 
+ 
 

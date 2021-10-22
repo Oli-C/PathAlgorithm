@@ -14,7 +14,7 @@ Program Structure
 -------------------------------
 <img src="images/programPackages.jpeg" alt="Program Packages" width= 700>
 
-2-Opt Algorithm <a href="https://en.wikipedia.org/wiki/2-opt"> 2-Opt Wiki /a>
+2-Opt Algorithm <a href="https://en.wikipedia.org/wiki/2-opt" 2-Opt Wiki /a>
 -------------------------------
 <img src="images/2_OptAlgorithm.jpeg" alt="2-Opt Algorithm" width= 700>
 
